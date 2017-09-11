@@ -7,7 +7,7 @@ short-description: BlocFlix is a Netflix replica for finding the best movies and
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
 
