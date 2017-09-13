@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: BlocJams
 thumbnail-path: "img/blocjams.png"
